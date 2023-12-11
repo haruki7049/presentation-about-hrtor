@@ -15,6 +15,10 @@ class: invert
 - hrtor's URL: https://github.com/haruki7049/hrtor
 
 ---
+<!--
+header: About hrtor, a scalable line editor's goal
+footer: "This presentation's URL: https://github.com/haruki7049/presentation-about-hrtor"
+-->
 
 # Table of this presentation
 
@@ -25,10 +29,6 @@ class: invert
 5. How do we develop hrtor?
 
 ---
-<!--
-_header: About hrtor, a scalable line editor's goal
-_footer: This presentation's URL: https://github.com/haruki7049/presentation-about-hrtor
--->
 
 # What is hrtor?
 
@@ -44,8 +44,12 @@ commands = {
 
 # Goal of hrtor in the future
 
+直近の目標：
+
 - hrtorコマンドのシェル補完。
 - hrtorのAPIの実装。
+
+将来の目標：
 
 - スクリーンモードの実装。
     - lessコマンド風のビューアー。
@@ -81,3 +85,22 @@ hrtor.commands = {
 ---
 
 # How do we develop hrtor?
+
+この点には議論の余地がある。
+
+使う機能：
+
+- Issue
+- PullRequest
+- milestone
+- GitHub Projects
+- GitHub Discussions
+- CI/CD
+
+---
+
+すべき事：
+
+- CONTRIBUTING.mdの精査
+- APIの構想を練る
+- 他には？
